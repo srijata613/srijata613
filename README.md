@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @srijata613
+👋 Hi, I’m @srijata613
 - 👀 I’m interested in mobile app development and Machine Learning.
 - 🌱 I’m currently learning kotlin, react native
 - 📫 How to reach me https://www.instagram.com/shini_095?igsh=cmQwdnZobnh2amp4
